@@ -3,13 +3,36 @@
   "efforts": [
     {
       "id": "1",
-    "name": "Haiti 2016",
-    "organizationID": "Seacoast",
-    "desc": "A trip to Haiti for Hurricane recovery.",
-    "phase": "started",
-    "start": "2016-11-18",
-    "end": "2016-12-02"
-  }
+      "name": "Haiti 2016",
+      "organizationID": "Seacoast",
+      "desc": "A trip to Haiti for Hurricane recovery.",
+      "phase": "started",
+      "start": "2016-11-18",
+      "end": "2016-12-02"
+    },
+    {
+      "name": "take 4",
+      "location_id": "2",
+      "id": "SyiamEGzg"
+    },
+    {
+      "name": "take 5",
+      "location_id": "2",
+      "id": "r15eFEMfx"
+    }
   ],
-  "locations": []
+  "locations": [
+    {
+      "id": 1,
+      "name": "Charleston"
+    },
+    {
+      "id": 2,
+      "name": "Colombia"
+    },
+    {
+      "id": 3,
+      "name": "Clemson"
+    }
+  ]
 }
